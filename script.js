@@ -8,15 +8,15 @@ window.addEventListener('load', () => {
 
 const messages = [
     {
-        text: "rudeeee, masa gitu bae, serius aku diginiin? aku kecintaan brutal bae. ilove u, lome me ga? ",
+        text: "salah klik? wkwkwkw klik yg kiri bocil skem umur 1 cm ",
         image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
-        text: "tinggal klik yg kiri apa susah nya",
+        text: "baeee? paaok",
         image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
     },
     {
-        text: "terakhir i love u more than i love mole, and that say a lot because trust me i really love ml hehe. kalo kamu \"no\" yauda lah paok",
+        text: "terakhir i love u more than words. maybe we can't be together forever, but we'll try for as long as we can.but if forever exits, i want it to be with u \"no\" yes kan",
         image: "https://i.pinimg.com/736x/a6/43/f5/a643f5a40db387585b56bc767b66fddb.jpg"
     }
 ];
@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! i knew you would say vqsghvwegdsbjs";
+    title.innerHTML = "lmao, aku tau kok kamu kecintaan. 14 tanggal kita official ya, cakep juga tanggal nya kaya pacar ku wkwkwk";
     document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';

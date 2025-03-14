@@ -1,7 +1,7 @@
 {
-  "name": "valentine-proposal",
+  "name": "white-proposal",
   "version": "1.0.0",
-  "description": "Valentine's Day Proposal Website",
+  "description": "White's Day Proposal Website",
   "main": "index.html",
   "scripts": {
     "start": "serve .",
